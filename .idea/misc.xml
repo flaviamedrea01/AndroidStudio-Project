@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Flavia/AndroidStudioProjects/Move/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1375" />
+        <entry key="..\:/Users/Flavia/AndroidStudioProjects/Move/app/src/main/res/drawable/ic_baseline_emoji_people_24.xml" value="0.1375" />
+        <entry key="..\:/Users/Flavia/AndroidStudioProjects/Move/app/src/main/res/drawable/ic_comment.xml" value="0.1375" />
+        <entry key="..\:/Users/Flavia/AndroidStudioProjects/Move/app/src/main/res/drawable/ic_email.xml" value="0.1375" />
+        <entry key="..\:/Users/Flavia/AndroidStudioProjects/Move/app/src/main/res/drawable/ic_fullname.xml" value="0.1375" />
+        <entry key="..\:/Users/Flavia/AndroidStudioProjects/Move/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1375" />
+        <entry key="..\:/Users/Flavia/AndroidStudioProjects/Move/app/src/main/res/drawable/ic_like.xml" value="0.1455" />
+        <entry key="..\:/Users/Flavia/AndroidStudioProjects/Move/app/src/main/res/drawable/ic_more_vert.xml" value="0.1375" />
+        <entry key="..\:/Users/Flavia/AndroidStudioProjects/Move/app/src/main/res/drawable/ic_password.xml" value="0.1375" />
+        <entry key="..\:/Users/Flavia/AndroidStudioProjects/Move/app/src/main/res/drawable/ic_share.xml" value="0.1375" />
+        <entry key="..\:/Users/Flavia/AndroidStudioProjects/Move/app/src/main/res/drawable/ic_thumb_up.xml" value="0.1375" />
+        <entry key="..\:/Users/Flavia/AndroidStudioProjects/Move/app/src/main/res/drawable/ic_user.xml" value="0.1375" />
+        <entry key="..\:/Users/Flavia/AndroidStudioProjects/Move/app/src/main/res/layout/activity_log_in.xml" value="0.25" />
+        <entry key="..\:/Users/Flavia/AndroidStudioProjects/Move/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Flavia/AndroidStudioProjects/Move/app/src/main/res/layout/activity_quix.xml" value="0.24094202898550723" />
+        <entry key="..\:/Users/Flavia/AndroidStudioProjects/Move/app/src/main/res/layout/activity_quiz.xml" value="0.25" />
+        <entry key="..\:/Users/Flavia/AndroidStudioProjects/Move/app/src/main/res/layout/activity_sign_up.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/Flavia/AndroidStudioProjects/Move/app/src/main/res/layout/list_items.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/Flavia/AndroidStudioProjects/Move/app/src/main/res/layout/row_cell_multilevel.xml" value="0.24094202898550723" />
+        <entry key="..\:/Users/Flavia/AndroidStudioProjects/Move/app/src/main/res/layout/treelist.xml" value="0.24094202898550723" />
+        <entry key="..\:/Users/Flavia/AndroidStudioProjects/Move/app/src/main/res/xml/network_security_config.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

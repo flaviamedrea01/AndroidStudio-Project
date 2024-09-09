@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Move</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="submit">Submit</string>
+    <string name="signup">Signup</string>
+    <string name="register">Register</string>
+    <string name="full_name">Full name</string>
+    <string name="email">Email</string>
+    <string name="sign">No account yet? <u>Signup</u> right now.</string>
+
+    <string name="title1">Yoga</string>
+    <string name="description1">Yoga is a mind and body practice. Various styles of yoga combine physical postures, breathing techniques, and meditation or relaxation. A regular yoga practice can promote endurance, strength, calmness, flexibility, and well-being.</string>
+    <string name="title2">Pilates</string>
+    <string name="description2">By definition, Pilates is a system of repetitive exercises performed on a mat or other equipment to promote strength, stability, and flexibility. Pilates exercises develop the body through muscular effort that stems from the core. </string>
+    <string name="title3">Running</string>
+    <string name="description3">Running has been increasingly popular for decades. That’s not surprising considering its exercise brags: It requires little equipment. It’s a workout you can do on your own time and take with you if you’re away from home (no gym or class times to worry about). It’s efficient. And it can be great for boosting cardiovascular fitness. </string>
+    <string name="title4">Skipping</string>
+    <string name="description4">Skipping has a whole host of benefits, and not just because it allows you to feel like you’re in the playground again. A skipping rope workout is fun, high intensity and cheap, too. </string>
+    <string name="like">Like</string>
+    <string name="comment">Comment</string>
+    <string name="more">More</string>
+    <string name="share">Share</string>
+    <string name="log_out">Log Out</string>
+    <string name="quiz">Quiz</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="d">D</string>
+    <string name="next_question">Next Question</string>
+    <string name="quit">Quit</string>
+    <string name="questions">Questions</string>
+    <string name="_0">0</string>
+</resources>
+
